@@ -1,0 +1,9 @@
+Stechlin MonitoringDgowlarge phytoplankton
+
+Date: 2023041340x
+Samplingpoint: deepest point
+Depth: 1 m
+
+Sample_volume_ml: NA
+Volume_after_concentration_ml: NA
+Size_range_um: 20 - 300
