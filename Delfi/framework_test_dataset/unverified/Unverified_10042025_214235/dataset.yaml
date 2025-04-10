@@ -1,0 +1,21 @@
+train: ./train/images
+val: ./val/images
+test: ./test/images
+nc: 16
+names:
+  0: CLBosBos000
+  1: CLDapCer050
+  2: CLDapDap000
+  3: CLLepLep010
+  4: CLSidDia010
+  5: CO000000N00
+  6: COCal000000
+  7: COCyc000000
+  8: COegg
+  9: RMAspAsp000
+  10: RMBraKel000
+  11: RMBraKer010
+  12: RMBraKer050
+  13: RMSynPol000
+  14: RMTroFil000
+  15: z_unknown
